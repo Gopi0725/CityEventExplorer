@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428601212003",
+    "project_id": "citypulse-loginauth",
+    "storage_bucket": "citypulse-loginauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428601212003:android:c650f767fcbd215bae0c56",
+        "android_client_info": {
+          "package_name": "com.cityeventexplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpfPT0MistBMTH2H6n-2qxXTZ8roAUU6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
